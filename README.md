@@ -18,7 +18,7 @@ I'm a very passionate  person, especially when it comes time to learn new techno
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=faridulccr)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faridulccr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faridulccr)](https://github.com/faridulccr/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=faridulccr&show_icons=true&count_private=true)  
 

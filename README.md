@@ -14,7 +14,7 @@ I'm a very passionate  person, especially when it comes time to learn new techno
 
 **Skills** : REACT/NodeJs/JS/HTML/CSS
 
-- 🔭 I'm currently working on some React Js projects.
+- 🔭 I'm currently working on some full stack projects.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=faridulccr)](https://github.com/ryo-ma/github-profile-trophy)
 

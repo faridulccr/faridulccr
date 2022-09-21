@@ -10,9 +10,9 @@ Living: Rangpur, Bangladesh.
 [<img src='./images/YouTube_full-color_icon_(2017).svg.png' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC-lDYI15DaoW8lEImwqWBAQ)
 
 ## About Me :
-I'm a very passionate  person, especially when it comes time to learn new technologies from young age. **I'm also passionate about making error-free websites with 100% client satisfaction.** I have been attracted by technology and how tools work, things growing etc. I have already learned HTML, CSS, JavaScript, TypeScript, React Js, Node Js, Express Js, Bootstrap, Tailwind, MongoDB/SQL for two years and more and continue learnig to improve my coding knowledge. I am spending so much time to improve my web development skills. Every day I want to learn something new, actaully I love to write code.
+I'm a very passionate  person, especially when it comes time to learn new technologies from young age. **I'm also passionate about making error-free websites with 100% client satisfaction.** I have been attracted by technology and how tools work, things growing etc. I have already learned Full Stack Web Development (MERN Stack) for two years and more and continue learnig to improve my coding knowledge. I am spending so much time to improve my web development skills. Every day I want to learn something new, actaully I love to write code.
 
-**Skills** : REACT/NodeJs/JS/HTML/CSS
+**Skills** :  HTML, CSS, Bootstrap, Sass, JavaScript, React Js, NodeJs, ExpressJs, MongoDB, Firebase
 
 - 🔭 I'm currently working on some full stack projects.
 

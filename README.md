@@ -8,7 +8,7 @@ Living: Rangpur, Bangladesh.
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/faridulccr)
 [<img src='./images/icons8-facebook-48.png' alt='facebook' height='40'>](https://www.facebook.com/mdfaridul.islam.5494)
 [<img src='./images/YouTube_full-color_icon_(2017).svg.png' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC-lDYI15DaoW8lEImwqWBAQ)
-[<img title="linkedin" src="./images/linkedin.svg" />](https://www.linkedin.com/in/md-faridul-islam-aa5207249/)
+[<img title="linkedin" src="./images/linkedin.png" />](https://www.linkedin.com/in/md-faridul-islam-aa5207249/)
 
 ## About Me :
 I'm a very passionate  person, especially when it comes time to learn new technologies from young age. **I'm also passionate about making error-free websites with 100% client satisfaction.** I have been attracted by technology and how tools work, things growing etc. I have already learned Full Stack Web Development (MERN Stack) for two years and more and continue learnig to improve my coding knowledge. I am spending so much time to improve my web development skills. Every day I want to learn something new, actaully I love to write code.

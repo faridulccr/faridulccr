@@ -13,7 +13,8 @@ Living: Rangpur, Bangladesh.
 ## About Me :
 I'm a very passionate  person, especially when it comes time to learn new technologies from young age. **I'm also passionate about making error-free websites with 100% client satisfaction.** I have been attracted by technology and how tools work, things growing etc. I have already learned Full Stack Web Development (MERN Stack) for two years and more and continue learnig to improve my coding knowledge. I am spending so much time to improve my web development skills. Every day I want to learn something new, actaully I love to write code.
 
-**Skills** :  HTML, CSS, Bootstrap, Sass, JavaScript, React Js, NodeJs, ExpressJs, MongoDB, Firebase
+**Skills** :  HTML, CSS, Bootstrap, Tailwind, Sass, JQuery, JavaScript, React Js, NodeJs, ExpressJs, MongoDB, Firebase, Git, Github
+**Hosting**: Github, Netlify, Surge, Vercel, Heroku
 
 - 🔭 I'm currently working on some full stack projects.
 
